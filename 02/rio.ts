@@ -36,6 +36,8 @@ console.log(getNearestMultiple(squareLength2, 7))
 //   "upper": 301
 // } 
 
+// --------------------------------------------
+
 // TEST 3
 const squareLength3 = 1500;
 console.log(getNearestMultiple(squareLength3, 11))
