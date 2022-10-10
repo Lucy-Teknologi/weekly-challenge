@@ -7,8 +7,11 @@ Legend:
 
 Example:
   12|3     ❌ not reflective
+  
   12|21    ✅ reflective
+  
   123|123  ❌ not reflective
+  
   123|321  ✅ reflective
 
 **BONUS (+ Rp. 50.000,00)**
